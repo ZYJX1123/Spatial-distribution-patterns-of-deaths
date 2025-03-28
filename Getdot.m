@@ -2,7 +2,7 @@ close all;
 clear; clc;
 
 n=input( 'please input number of points n=');
-pic=imread('8.jpg with bar.tif');%输入图片名
+pic=imread('');%Type in the file name of the image
 
 I=imshow(pic);
 
